@@ -1,0 +1,31 @@
+# Web Framework & Auth
+Flask==3.0.0
+Flask-Login==0.6.3
+Flask-SQLAlchemy==3.1.1
+SQLAlchemy==2.0.48
+Werkzeug==3.0.1
+Jinja2==3.1.6
+MarkupSafe==3.0.3
+itsdangerous==2.2.0
+blinker==1.9.0
+
+# Computer Vision & Data
+opencv-python==4.13.0.90
+opencv-contrib-python==4.13.0.90
+numpy==2.4.1
+openpyxl==3.1.5
+et_xmlfile==2.0.0
+
+# Hardware & Networking
+pyserial==3.5
+requests==2.32.5
+urllib3==2.5.0
+certifi==2025.8.3
+idna==3.10
+charset-normalizer==3.4.3
+
+# Utilities
+click==8.3.1
+colorama==0.4.6
+greenlet==3.3.2
+typing_extensions==4.15.0
